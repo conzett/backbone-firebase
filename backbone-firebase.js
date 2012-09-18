@@ -10,7 +10,7 @@
 (function(exports, undefined){
 
   // Note: Add your appname to the end of this string
-  var urlPrefix = 'http://gamma.firebase.com/';
+  var urlPrefix = 'https://gamma.firebase.com/conzett/';
   
   var defaults = {
     urlPrefix: urlPrefix,
